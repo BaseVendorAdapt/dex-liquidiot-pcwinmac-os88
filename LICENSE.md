@@ -1,4 +1,4 @@
-# 
+# Updated dex liquidity bot plugins for Mac OS | Automatic dex liquidity bot plugins for PC Windows. Featuring limit order execution and arbitrage scanning — optimized for maximum performance on every platform.
 
 
 
